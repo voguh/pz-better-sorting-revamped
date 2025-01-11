@@ -82,4 +82,4 @@ description=[code]
 description=This project is under GNU GENERAL PUBLIC LICENSE, Version 3.
 description=[/code]
 tags=Build 41;Items
-visibility=private
+visibility=friendsOnly
