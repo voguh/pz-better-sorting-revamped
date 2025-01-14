@@ -1,5 +1,22 @@
 # Better Sorting Revamped
 
+## 1.0.1
+
+Update workshop description and fix some item display names.
+
+
+### Refactored/Changed
+
+- Updated workshop description;
+- Changed workshop visibility to public;
+- Changed `Base.LogStacks4` display name to `Log Stack - Four`;
+- Changed `Base.LogStacks3` display name to `Log Stack - Three`;
+- Changed `Base.LogStacks2` display name to `Log Stack - Two`;
+
+
+---
+
+
 ## 1.0.0
 
 This was de first stable release.
