@@ -49,7 +49,7 @@ ItemName_EN = {
   ItemName_Base.RedPen="Pen - Red",
   ItemName_Base.Pen="Pen - Black",
   /************** LOGS **************/
-  ItemName_Base.LogStacks4="Log Stack of Four",
-  ItemName_Base.LogStacks3="Log Stack of Three",
-  ItemName_Base.LogStacks2="Log Stack of Two",
+  ItemName_Base.LogStacks4="Log Stack - Four",
+  ItemName_Base.LogStacks3="Log Stack - Three",
+  ItemName_Base.LogStacks2="Log Stack - Two",
 }
