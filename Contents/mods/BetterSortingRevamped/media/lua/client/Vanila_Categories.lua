@@ -1535,6 +1535,7 @@ BetterSorting.CategorizeItem("Base.Baseball", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.Basketball", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.BeerCanEmpty", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.Bell", BS_CATEGORIES.JUNK);
+BetterSorting.CategorizeItem("Base.Belt", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.Bricktoys", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.Button", BS_CATEGORIES.JUNK);
 BetterSorting.CategorizeItem("Base.CameraFilm", BS_CATEGORIES.JUNK);
@@ -1906,7 +1907,6 @@ BetterSorting.CategorizeItem("Base.WildGarlicCataplasm", BS_CATEGORIES.MED);
 --MISC
 BetterSorting.CategorizeItem("Base.BareHands", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.Barricade", BS_CATEGORIES.MISC);
-BetterSorting.CategorizeItem("Base.Belt", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CardDeck", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CombinationPadlock", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CorpseFemale", BS_CATEGORIES.MISC);
