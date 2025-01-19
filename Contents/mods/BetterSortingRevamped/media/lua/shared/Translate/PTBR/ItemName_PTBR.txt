@@ -1,0 +1,31 @@
+ItemName_PTBR = {
+    -- Radios
+    ItemName_Base.Radio                  = "Rádio",
+    ItemName_Radio.RadioRed              = "Rádio Premium Technologies",
+    ItemName_Radio.RadioBlack            = "Rádio ValuTech",
+    ItemName_Radio.RadioMakeShift        = "Rádio Makeshift",
+    ItemName_Radio.HamRadio1             = "Rádio Amador",
+    ItemName_Radio.HamRadio2             = "Rádio Militar",
+    ItemName_Radio.HamRadioMakeShift     = "Rádio Amador Improvisado",
+    ItemName_Radio.WalkieTalkie1         = "Walkie Talkie Toys-R-Mine",
+    ItemName_Radio.WalkieTalkie2         = "Walkie Talkie ValuTech",
+    ItemName_Radio.WalkieTalkie3         = "Walkie Talkie Premium Technologies",
+    ItemName_Radio.WalkieTalkie4         = "Walkie Talkie Tático",
+    ItemName_Radio.WalkieTalkie5         = "Walkie Talkie Militar",
+    ItemName_Radio.WalkieTalkieMakeShift = "Walkie Talkie Improvisado",
+
+    -- Logs
+    ItemName_Base.LogStacks4 = "Pilha de Troncos - Quatro",
+    ItemName_Base.LogStacks3 = "Pilha de Troncos - Três",
+    ItemName_Base.LogStacks2 = "Pilha de Troncos - Dois",
+
+    --------------------------------------------- MODS ---------------------------------------------
+
+    -- Arithmechick's Convert Radios to AC Power
+    -- https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956
+    ItemName_RadiosToAC.RadioRed_AC = "Rádio Premium Technologies com Adaptador AC"
+    ItemName_RadiosToAC.RadioBlack_AC = "Rádio ValuTech com Adaptador AC"
+    ItemName_RadiosToAC.HamRadio1_AC = "Rádio Amador com Adaptador AC"
+    ItemName_RadiosToAC.HamRadio2_AC = "Rádio Militar com Adaptador AC"
+    ItemName_RadiosToAC.HamRadioMakeShift_AC = "Rádio Amador Improvisado com Adaptador AC"
+}
