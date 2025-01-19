@@ -81,7 +81,6 @@ BetterSorting.CategorizeItem("Base.Soap2", BS_CATEGORIES.CLEAN);
 --CLOTHING
 BetterSorting.CategorizeItem("Base.AmmoStrap_Bullets", BS_CATEGORIES.CLOTH_ACC);
 BetterSorting.CategorizeItem("Base.AmmoStrap_Shells", BS_CATEGORIES.CLOTH_ACC);
-BetterSorting.CategorizeItem("Base.Belt", BS_CATEGORIES.CLOTH_ACC);
 BetterSorting.CategorizeItem("Base.Belt2", BS_CATEGORIES.CLOTH_ACC);
 BetterSorting.CategorizeItem("Base.Bracelet_LeftFriendshipTINT", BS_CATEGORIES.CLOTH_ACC);
 BetterSorting.CategorizeItem("Base.Bracelet_RightFriendshipTINT", BS_CATEGORIES.CLOTH_ACC);
@@ -1907,6 +1906,7 @@ BetterSorting.CategorizeItem("Base.WildGarlicCataplasm", BS_CATEGORIES.MED);
 --MISC
 BetterSorting.CategorizeItem("Base.BareHands", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.Barricade", BS_CATEGORIES.MISC);
+BetterSorting.CategorizeItem("Base.Belt", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CardDeck", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CombinationPadlock", BS_CATEGORIES.MISC);
 BetterSorting.CategorizeItem("Base.CorpseFemale", BS_CATEGORIES.MISC);
