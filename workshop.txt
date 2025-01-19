@@ -45,8 +45,8 @@ description=    [/tr]
 description=    [tr]
 description=        [td]Base.Belt[/td]
 description=        [td]ClothAcc[/td]
-description=        [td]Misc[/td]
-description=        [td]The default category of this item is [b]Junk[/b], the default Better Sorting category changed to [b]ClothAcc[/b], but I don't think this is the best category since the item was removed and is useless in the current versions. I decided to leave it as [b]Misc[/b] instead.[/td]
+description=        [td]Junk[/td]
+description=        [td][b]Junk[/b] is a better category since this item is useless and has been removed[/td]
 description=    [/tr]
 description=[/table]
 description=
@@ -78,7 +78,17 @@ description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2
 description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073]KI5's '92 AM General M998 + M101A3 Cargo trailer[/url]
 description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021]KI5's '99 Ford Crown Victoria Police Interceptor[/url]
 description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3330403100]KI5's Trailers![/url]
+description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956]Arithmechick's Convert Radios to AC Power[/url]
 description=    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3243752606]Myself's Firearms B41 Revamped[/url]
+description=[/list]
+description=
+description=
+description=
+description=[h3]Built-in language supported[/h3]
+description=
+description=[list]
+description=    [*]English
+description=    [*]Portugu�s do Brasil (Brazilian Portuguese)
 description=[/list]
 description=
 description=

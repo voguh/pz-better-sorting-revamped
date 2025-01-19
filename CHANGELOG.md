@@ -1,5 +1,24 @@
 # Better Sorting Revamped
 
+## 1.1.0
+
+Extends mods supports and translations.
+
+
+### Added
+
+- Added Brazilian Portuguese translation;
+- Added [Arithmechick's Convert Radios to AC Power](https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956) support (with some item name fixes and Brazilian Portuguese translation);
+
+
+### Refactored/Changed
+
+- Changed `Base.Belt` display category to `BS_CATEGORIES.JUNK`;
+
+
+---
+
+
 ## 1.0.2
 
 Update item categories.
@@ -11,6 +30,7 @@ Update item categories.
 
 
 ---
+
 
 ## 1.0.1
 

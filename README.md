@@ -13,6 +13,7 @@ This mod is a fork of [ChobitsCrazy's Better Sorting](http://github.com/ChobitsC
 | Base.Paintbrush       | Paint        | Tool         | Make more sense Paint Brush in `Tool` because is a tool used to paint                                    |
 | Base.PropaneTank      | Craft        | CraftMetal   | Make more sense Propane Tank in `Crafting - Metalworking` because is a item used to refill Propane Torch |
 | Base.Razor            | Junk         | Appear       | This item is used to remove beard                                                                        |
+| Base.Belt             | ClothAcc     | Junk         | `Junk` is a better category since this item is useless and has been removed                              |
 
 
 
