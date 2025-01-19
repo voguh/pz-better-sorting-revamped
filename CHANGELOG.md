@@ -1,5 +1,17 @@
 # Better Sorting Revamped
 
+## 1.0.2
+
+Update item categories.
+
+
+### Refactored/Changed
+
+- Changed `Base.Belt` display category to `BS_CATEGORIES.MISC`;
+
+
+---
+
 ## 1.0.1
 
 Update workshop description and fix some item display names.
