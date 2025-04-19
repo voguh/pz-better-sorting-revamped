@@ -5,7 +5,7 @@
 Include BetterSortingCC compatibility.
 
 ### Added
-- Added BetterSortingCC compatibility mod;
+- Added [ChobitsCrazy's Better Sorting](http://github.com/ChobitsCrazy/BetterSorting) compatibility mod;
 
 ### Refactored/Changed
 - Renamed `BetterSorting_Core.lua` to `BSR_ClientMain.lua`;
