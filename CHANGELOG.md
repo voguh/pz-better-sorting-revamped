@@ -1,61 +1,57 @@
 # Better Sorting Revamped
 
+## 1.2.0
+
+Include BetterSortingCC compatibility.
+
+### Added
+- Added BetterSortingCC compatibility mod;
+
+### Refactored/Changed
+- Renamed `BetterSorting_Core.lua` to `BSR_ClientMain.lua`;
+
+---
+
 ## 1.1.0
 
 Extends mods supports and translations.
 
-
 ### Added
-
 - Added Brazilian Portuguese translation;
 - Added [Arithmechick's Convert Radios to AC Power](https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956) support (with some item name fixes and Brazilian Portuguese translation);
 
-
 ### Refactored/Changed
-
 - Changed `Base.Belt` display category to `BS_CATEGORIES.JUNK`;
 
-
 ---
-
 
 ## 1.0.2
 
 Update item categories.
 
-
 ### Refactored/Changed
-
 - Changed `Base.Belt` display category to `BS_CATEGORIES.MISC`;
 
-
 ---
-
 
 ## 1.0.1
 
 Update workshop description and fix some item display names.
 
-
 ### Refactored/Changed
-
 - Updated workshop description;
 - Changed workshop visibility to public;
 - Changed `Base.LogStacks4` display name to `Log Stack - Four`;
 - Changed `Base.LogStacks3` display name to `Log Stack - Three`;
 - Changed `Base.LogStacks2` display name to `Log Stack - Two`;
 
-
 ---
-
 
 ## 1.0.0
 
 This was de first stable release.
 
-
 ### Added
-
 - Added category `CraftMech`;
 - Added 'constants' file in shared to store all categories, just use `BS_CATEGORIES.<SOMETHING>`. E.g.: `BS_CATEGORIES.AMMO`;
 - Support for [Myself's Firearms B41 Revamped](https://steamcommunity.com/sharedfiles/filedetails/?id=3243752606);
@@ -70,14 +66,10 @@ This was de first stable release.
 - Support for [KI5's '99 Ford Crown Victoria Police Interceptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2971246021);
 - Support for [KI5's Trailers!](https://steamcommunity.com/sharedfiles/filedetails/?id=3330403100);
 
-
 ### Removed
-
 - Mod Supports and translations from original Better Sorting (plans to re-implement in future);
 
-
 ### Refactored/Changed
-
 - Removed built-in ItemTweaker to a self implementation of display category change;
 - Changed `TweakItem(<item_full_type>, <propery>, <value>)` to `BetterSorting.CategorizeItem(<item_full_type>, <category>)`;
 - Fixed category of `Radio.CDplayer` and `Base.EmptyConcreteBag`;

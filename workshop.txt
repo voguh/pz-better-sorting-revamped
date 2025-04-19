@@ -65,6 +65,12 @@ description=[/table]
 description=
 description=
 description=
+description=[h3] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159]ChobitsCrazy's Better Sorting Compatibility[/url]
+description=
+description=This mod includes a compatibility patch for ChobitsCrazy’s Better Sorting. [b]Do not enable ChobitsCrazy’s Better Sorting Compatibility[/b] and this mod at the same time. To make Better Sorting–compatible mods work, simply activate the compatibility mod.
+description=
+description=
+description=
 description=[h3]Built-in mods supported[/h3]
 description=
 description=[list]
