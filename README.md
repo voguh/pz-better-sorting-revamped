@@ -27,7 +27,7 @@ This mod is a fork of [ChobitsCrazy's Better Sorting](http://github.com/ChobitsC
 
 ## ChobitsCrazy's Better Sorting Compatibility
 
-This mod includes a compatibility patch for ChobitsCrazy’s Better Sorting. **Do not enable ChobitsCrazy’s Better Sorting Compatibility** and this mod at the same time. To make Better Sorting–compatible mods work, simply activate the compatibility mod.
+This mod includes a compatibility patch for ChobitsCrazy's Better Sorting. **Do not enable ChobitsCrazy's Better Sorting Compatibility** and this mod at the same time. To make Better Sorting-compatible mods work, simply activate the compatibility mod.
 
 
 

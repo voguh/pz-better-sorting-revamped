@@ -1,5 +1,17 @@
 # Better Sorting Revamped
 
+## 1.2.1
+
+Fix BetterSortingCC compatibility.
+
+### Removed
+- Removed unused `ItemTweaker_Copy_CC.lua`;
+
+### Refactored/Changed
+- Fixed built-in tweak items function in BetterSorting Compatibility mod;
+
+---
+
 ## 1.2.0
 
 Include BetterSortingCC compatibility.
