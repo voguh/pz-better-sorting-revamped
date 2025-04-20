@@ -7,7 +7,7 @@ if not getActivatedMods():contains("ItemTweakerAPI") then
     local TweakItemData = TweakItemData or {};
 
     --Prep code to make the changes to all item in the TweakItemData table.
-    local function ItemTweaker.tweakItems()
+    local function tweakItems()
         local item;
         for k,v in pairs(TweakItemData) do
             for t,y in pairs(v) do
@@ -28,6 +28,6 @@ if not getActivatedMods():contains("ItemTweakerAPI") then
         TweakItemData[itemName][itemProperty] = propertyValue;
     end
 
-    Events.OnGameBoot.Add(ItemTweaker.tweakItems);
+    Events.OnGameBoot.Add(tweakItems);
     -- End of DarkSlayerEX's Item Tweaker API
 end
