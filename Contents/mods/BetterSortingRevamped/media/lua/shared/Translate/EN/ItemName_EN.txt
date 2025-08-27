@@ -58,13 +58,21 @@ ItemName_EN = {
     ItemName_Base.LogStacks3 = "Log Stack - Three",
     ItemName_Base.LogStacks2 = "Log Stack - Two",
 
+    -- Mechanics
+    ItemName_Base.NormalCarMuffler1 = "Regular Muffler",
+    ItemName_Base.NormalCarMuffler2 = "Regular Muffler",
+    ItemName_Base.NormalCarMuffler3 = "Regular Muffler",
+    ItemName_Base.NormalCarSeat1 = "Car Seat",
+    ItemName_Base.NormalCarSeat2 = "Car Seat",
+    ItemName_Base.NormalCarSeat3 = "Car Seat",
+
     --------------------------------------------- MODS ---------------------------------------------
 
     -- Arithmechick's Convert Radios to AC Power
     -- https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956
-    ItemName_RadiosToAC.RadioRed_AC          = "Radio - Premium Technologies with Adaptador AC"
-    ItemName_RadiosToAC.RadioBlack_AC        = "Radio - ValuTech with Adaptador AC"
-    ItemName_RadiosToAC.HamRadio1_AC         = "Radio - HAM with Adaptador AC"
-    ItemName_RadiosToAC.HamRadio2_AC         = "Radio - Military with Adaptador AC"
-    ItemName_RadiosToAC.HamRadioMakeShift_AC = "Radio - Makeshift HAM with Adaptador AC"
+    ItemName_RadiosToAC.RadioRed_AC          = "Radio - Premium Technologies with AC Adapter"
+    ItemName_RadiosToAC.RadioBlack_AC        = "Radio - ValuTech with AC Adapter"
+    ItemName_RadiosToAC.HamRadio1_AC         = "Radio - HAM with AC Adapter"
+    ItemName_RadiosToAC.HamRadio2_AC         = "Radio - Military with AC Adapter"
+    ItemName_RadiosToAC.HamRadioMakeShift_AC = "Radio - Makeshift HAM with AC Adapter"
 }
