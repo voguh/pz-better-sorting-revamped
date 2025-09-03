@@ -128,6 +128,13 @@ if getActivatedMods():contains("firearmmodRevamp") then
 
 
 
+    BetterSorting.CategorizeItem("Base.AK_Mag", BS_CATEGORIES.WEP_AMMO_MAG);
+    BetterSorting.CategorizeItem("Base.Glock17Mag", BS_CATEGORIES.WEP_AMMO_MAG);
+    BetterSorting.CategorizeItem("Base.UZIMag", BS_CATEGORIES.WEP_AMMO_MAG);
+    BetterSorting.CategorizeItem("Base.M1GarandClip", BS_CATEGORIES.WEP_AMMO_MAG);
+
+
+
     BetterSorting.CategorizeItem("Base.AK47BayonetMelee", BS_CATEGORIES.WEP_MELEE);
     BetterSorting.CategorizeItem("Base.AR15BayonetMelee", BS_CATEGORIES.WEP_MELEE);
     BetterSorting.CategorizeItem("Base.M1GarandBayonetMelee", BS_CATEGORIES.WEP_MELEE);
