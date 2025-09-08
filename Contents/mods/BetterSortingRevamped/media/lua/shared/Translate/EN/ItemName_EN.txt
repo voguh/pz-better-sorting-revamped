@@ -65,6 +65,9 @@ ItemName_EN = {
     ItemName_Base.NormalCarSeat1 = "Car Seat",
     ItemName_Base.NormalCarSeat2 = "Car Seat",
     ItemName_Base.NormalCarSeat3 = "Car Seat",
+    ItemName_Base.OldTire1 = "Old Tire",
+    ItemName_Base.OldTire2 = "Old Tire",
+    ItemName_Base.OldTire3 = "Old Tire",
 
     --------------------------------------------- MODS ---------------------------------------------
 
